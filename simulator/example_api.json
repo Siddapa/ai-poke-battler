@@ -1,0 +1,28 @@
+{
+    "gen": 8,
+    "pkm1": {
+        "name": "Gengar",
+        "fields": {
+            "ability": "",
+            "level": 50,
+            "item": "",
+            "nature": "",
+            "ivs": [],
+            "evs": [],
+            "boosts": []
+        }
+    },
+    "pkm2": {
+        "name": "Chansey",
+        "fields": {
+            "ability": "",
+            "level": 50,
+            "item": "",
+            "nature": "",
+            "ivs": [],
+            "evs": [],
+            "boosts": []
+        }
+    },
+    "move": "Shadow Ball"
+}
